@@ -5,6 +5,11 @@ A shopping app prototype, made with Jetpack Compose, that uses the https://fakes
 It is the most recommended network library
 **ROOM**
 Room provides an abstraction layer above the Sqlite DB
+Product Store App
+- View a list of products and on tap of each item, the detail of the product can be
+  seen.
+- Add a feature where I can add any of the listed product to my favorite list.
+- https://fakestoreapi.com/products?limit=10
 <table>
   <tr>
     <td>First screenshot List </td>
@@ -12,10 +17,5 @@ Room provides an abstraction layer above the Sqlite DB
     <td>Third screenshot Product List</td>
     <td>Fourth screenshot SideMenu</td>
   </tr>
-  <tr>
-    <td valign="top"><img src="/screenshots/App_Product_Category.png" alt="First screenshot image" width="100%" height="auto" title="First screenshot image"/></td>
-    <td valign="top"><img src="/screenshots/App_ProductDetail.png" alt="Second screenshot image" width="100%" height="auto" title="Second screenshot image"/></td>
-    <td valign="top"><img src="/screenshots/App_ProductList.png" alt="Third screenshot image" width="100%" height="auto" title="Third screenshot image"/></td>
-    <td valign="top"><img src="/screenshots/App_SideMenu1.png" alt="Fourth screenshot image" width="100%" height="auto" title="Fourth screenshot image"/></td>
-  </tr>
+  
  </table>
